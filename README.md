@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 96px; font-weight: 700; margin-bottom: 10px;">
+<h1 align="center" style="font-size: 144px; font-weight: 700; margin-bottom: 10px;">
   Hi, I'm Ifrah.
 </h1>
 
