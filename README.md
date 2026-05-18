@@ -8,24 +8,10 @@
     alt="Typing SVG"
   />
 </p>
-
-<table>
-<tr>
-<td width="60%">
+<div>
  <img src="assets/your-channel.png" width="220"/>
-</td>
+</div>
 
-<td width="65%">
-
-# Hi, I'm Ifrah.
-
-Systems engineering • Backend development • Product building
-
-Design-aware engineering with product thinking.
-
-</td>
-</tr>
-</table>
 
 
 
