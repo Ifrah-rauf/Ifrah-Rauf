@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center" style="font-size: 64px; font-weight: 700; margin-bottom: 10px;">
   Hi, I'm Ifrah.
 </h1>
