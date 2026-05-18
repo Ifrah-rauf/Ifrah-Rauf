@@ -1,10 +1,10 @@
-<h1 align="center" style="font-size: 64px; font-weight: 700; margin-bottom: 10px;">
+<h1 align="center" style="font-size: 96px; font-weight: 700; margin-bottom: 10px;">
   Hi, I'm Ifrah.
 </h1>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=36&pause=2200&color=8B7CFF&center=true&vCenter=true&width=1100&lines=Systems+engineering+•+Backend+development+•+Product+building;Design-aware+engineering+with+product+thinking"
+    src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=28&pause=2200&color=8B7CFF&center=true&vCenter=true&width=1100&lines=Systems+engineering+•+Backend+development+•+Product+building;Design-aware+engineering+with+product+thinking"
     alt="Typing SVG"
   />
 </p>
