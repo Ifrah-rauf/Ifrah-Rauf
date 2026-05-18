@@ -11,8 +11,8 @@
 
 <table>
 <tr>
-<td width="35%">
-  <img src="assets/your-channel.png" width="220"/>
+<td width="60%">
+ <img src="assets/your-channel.png" width="220"/>
 </td>
 
 <td width="65%">
