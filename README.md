@@ -9,7 +9,7 @@
   />
 </p>
 <div>
- <img src="assets/your-channel.png" width="220"/>
+ <img src="assets/banner.png" width="220"/>
 </div>
 
 
