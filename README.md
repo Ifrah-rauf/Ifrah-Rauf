@@ -9,9 +9,23 @@
   />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-<br/>
-<hr>
+<table>
+<tr>
+<td width="35%">
+  <img src="./assets/profile.png" width="220"/>
+</td>
+
+<td width="65%">
+
+# Hi, I'm Ifrah.
+
+Systems engineering • Backend development • Product building
+
+Design-aware engineering with product thinking.
+
+</td>
+</tr>
+</table>
 
 
 
