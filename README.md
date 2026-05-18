@@ -1,7 +1,11 @@
 ## Hi there 👋
+<h1 align="center" style="font-size: 64px; font-weight: 700; margin-bottom: 10px;">
+  Hi, I'm Ifrah.
+</h1>
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1800&color=8B7CFF&center=true&vCenter=true&width=1000&lines=Systems+engineering+•+Backend+development+•+Product+building;Systems+engineering+•+Backend+development+•+Design-aware+engineering;Backend+systems+with+product+and+design+thinking"
+    src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=24&pause=2200&color=8B7CFF&center=true&vCenter=true&width=1100&lines=Systems+engineering+•+Backend+development+•+Product+building;Design-aware+engineering+with+product+thinking"
     alt="Typing SVG"
   />
 </p>
