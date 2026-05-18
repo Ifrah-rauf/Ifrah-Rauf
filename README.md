@@ -1,6 +1,9 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+AlgoNest;Graph+Algorithms+%7C+Backend+Development;Artist+%2B+Engineer" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1800&color=8B7CFF&center=true&vCenter=true&width=1000&lines=Systems+engineering+•+Backend+development+•+Product+building;Systems+engineering+•+Backend+development+•+Design-aware+engineering;Backend+systems+with+product+and+design+thinking" 
+    alt="Typing SVG" 
+  />
 </p>
 <!--
 **Ifrah-rauf/Ifrah-Rauf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
