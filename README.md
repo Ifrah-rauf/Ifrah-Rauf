@@ -16,27 +16,21 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINK">
-  <img src="https://img.shields.io/badge/LinkedIn-17045c?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=17045c"/>
-</a>
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-17045c?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/crackhead_ir/">
+    <img src="https://img.shields.io/badge/LeetCode-2A167A?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 
-<a href="https://leetcode.com/u/crackhead_ir/">
-  <img src="https://img.shields.io/badge/LeetCode-2A167A?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=2A167A"/>
-</a>
+  <a href="https://github.com/Ifrah-Rauf">
+    <img src="https://img.shields.io/badge/GitHub-3B1FA8?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-&nbsp;&nbsp;
-
-<a href="https://github.com/Ifrah-Rauf">
-  <img src="https://img.shields.io/badge/GitHub-3B1FA8?style=for-the-badge&logo=github&logoColor=white&labelColor=3B1FA8"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-4C2BCB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4C2BCB"/>
-</a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-4C2BCB?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
 </p>
 
