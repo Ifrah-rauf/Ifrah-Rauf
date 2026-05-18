@@ -1,8 +1,8 @@
 ## Hi there 👋
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1800&color=8B7CFF&center=true&vCenter=true&width=1000&lines=Systems+engineering+•+Backend+development+•+Product+building;Systems+engineering+•+Backend+development+•+Design-aware+engineering;Backend+systems+with+product+and+design+thinking" 
-    alt="Typing SVG" 
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1800&color=8B7CFF&center=true&vCenter=true&width=1000&lines=Systems+engineering+•+Backend+development+•+Product+building;Systems+engineering+•+Backend+development+•+Design-aware+engineering;Backend+systems+with+product+and+design+thinking"
+    alt="Typing SVG"
   />
 </p>
 
